@@ -6,7 +6,7 @@
 - 📲 Hybrid applications on both Android and iOS (React Native)
 - 🧠 ML applications (PyTorch, Tensorflow)
 - 🗺️ SLAM and point-cloud applications using lidar (RealsenseSDK, Unity)
-- 🗄️ Back-end server applications for handling all of the above (Node, Express, and MongoDB)
+- 🗄️ Back-end server applications for handling all of the above (Node, Express, MongoDB, Oracle, MSSQL, MySQL)
 
 
 💞 In my free time, I also enjoy:
