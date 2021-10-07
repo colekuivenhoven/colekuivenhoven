@@ -2,7 +2,7 @@
 
 
 💖 I like working on programming and development for:
-- 📄 Single-page and progressive web applications (React, Vue)
+- 📄 Single-page and progressive web applications (React, Vue, Django)
 - 📲 Hybrid applications on both Android and iOS (React Native)
 - 🧠 ML applications (PyTorch, Tensorflow)
 - 🗺️ SLAM and point-cloud applications using lidar (RealsenseSDK, Unity)
