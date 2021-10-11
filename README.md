@@ -1,4 +1,4 @@
-👋 My name is Cole Kuivenhoven (@colekuivenhoven)
+👋 My name is Cole Kuivenhoven
 
 
 💖 I like working on programming and development for:
