@@ -18,7 +18,7 @@
 ⏭️ The next projects on my list are:
 - 🤖 SLAM-based pathfinding
 - 💬 ML-based language models
-- 🗃️ GraphQL server development
+- 🗃️ GraphQL databases
 
 <!---
 colekuivenhoven/colekuivenhoven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
